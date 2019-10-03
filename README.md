@@ -46,6 +46,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest19-f
 - Ben Mort, Student - Florida, USA
 - Aman Jain, Student - Himachal Pradesh, India
 - Georgi Bojinov, Student - Sofia, Bulgaria
+- Nikhil Shrivastava , Student - Jharkhand, India
 - Max Morales, Student - El Paso, Texas
 - Yash Agrawal, Student - Himachal Pradesh, India
 - Nanichang Katzing, Student - Nigeria
